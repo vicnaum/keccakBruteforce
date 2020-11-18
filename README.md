@@ -6,4 +6,4 @@ Performs a double-hash keccak256 bruteforce for all ascii printable chars (32 to
 
 `make`
 
-Then edit `run.sh` for your number of threads and run.
+Then edit `run.sh` for your number of threads and run `bash ./run.sh` (don't run more that once! wait for it to appear)
